@@ -1,1 +1,37 @@
 /*  your css code here. If applicable */
+.card{
+	width: 50%;
+	padding: 40px;
+	background-color: thistle;
+	box-shadow: 3px 5px 5px greenyellow;
+	display:flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	font-size: 25px;
+	font-weight: 55px;
+}
+
+img{
+	width: 80%;
+}
+
+
+button{
+	background-color:floralwhite;
+	color: green;
+	border-radius: 18px;
+	padding: 20px 40px;
+	font-size: 25px;
+	font-weight: 85px;
+	font-style: bolder;
+}
+
+
+
+
+
+
+
+
+
